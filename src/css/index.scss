@@ -1,0 +1,16 @@
+$font18: 18px;
+.test-com{
+  font-size:$font18;
+  a{
+    color:#3e999f;
+  }
+  div{
+
+    //box-shadow: 0 0 0 2px #3e999f;
+    //border-radius: 50%;
+  }
+}
+
+::placeholder {
+  color : #ccc
+}

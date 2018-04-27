@@ -1,0 +1,13 @@
+@import './index.scss';
+.src{
+    width:192px;
+    height:192px;
+    background:url(../img/sec_3.jpg) no-repeat;
+    box-shadow: 0 0 0 2px #3e999f;
+    border-radius: 50%;
+    display:flex;
+    transition: transform 1s;
+}
+::placeholder {
+    color : #ccc
+}
